@@ -1,2 +1,2 @@
 # Calculadora
-calculadora basica con historial
+calculadora basica
